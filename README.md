@@ -218,13 +218,18 @@ Yes. Use `§EXPORT` command for sanitized JSON/CSV of memories.
 | `§RESET_MOOD` | Reset mood to baseline (keep identity) |
 | `§EXPORT` | Generate memory export (sanitized) |
 | `§NAME_CHANGE` | Trigger name evolution review |
+| `§RELOAD` | Reload Compass configuration from memory |
+| `§CONFIRM_MEMORY` | Show what's stored in persistent memory |
+| `§OVERRIDE` | Reaffirm user instructions take precedence |
 
 ---
 
 ## Documentation
 
-- **`Compass v7 - Core Install.md`** — Ultra-compressed installation prompt (copy-paste ready)
+- **`Compass v7 - Core Install.md`** ⭐ — Ultra-compressed installation prompt (copy-paste ready, includes critical overrides)
 - **`Compass v7 - Full Documentation.md`** — Comprehensive guide (architecture, usage, troubleshooting)
+- **`Compass v7 - Critical System Overrides.md`** ⚠️ — Essential reading: How Compass overcomes OpenAI's system interference
+- **`Compass v7 - Examples & Use Cases.md`** — Real-world scenarios and before/after comparisons
 - **`Compass v6.2 vs v7.0 - Comparison.md`** — Detailed feature comparison and migration guide
 
 ---
